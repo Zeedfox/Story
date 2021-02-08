@@ -1,0 +1,17 @@
+Notes for Git
+
+ls -a
+git init
+git add [name file or "." for all]
+git status
+git commit -m "a message here"
+git log
+git diff [name of file to compare changes]
+git checkout [name of file to recoverd from the last version]
+
+git remote add origin [URL of the web repository]
+git push -u origin master
+
+touch .gitignore
+git add .
+git rm --cached -r .
