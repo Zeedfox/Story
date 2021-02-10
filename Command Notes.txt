@@ -21,3 +21,6 @@ git clone [url git project]
 git branch [Name of the new branch]
 git branch
 git checkout [name of the branch that you want to switch]
+
+-if you want to merge to the master branch you have to "git checkout master" first-
+git merge [name of the branch]
