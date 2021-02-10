@@ -1,1 +1,3 @@
 later when i try to practice the knowledge that i got learned on the tutorial...
+
+At this point I like to use Hyper terminal to use github with commands
