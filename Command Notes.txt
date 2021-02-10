@@ -15,3 +15,5 @@ git push -u origin master
 touch .gitignore
 git add .
 git rm --cached -r .
+
+git clone [url git project]
