@@ -17,3 +17,7 @@ git add .
 git rm --cached -r .
 
 git clone [url git project]
+
+git branch [Name of the new branch]
+git branch
+git checkout [name of the branch that you want to switch]
